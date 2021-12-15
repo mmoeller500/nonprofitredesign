@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  border:0;
+  background-color: #A0C7FF;
+  background-image: url(../img/forestroad.jpg);
+}
+
+#bodyContainer {
+	height : auto;
+	margin:0 0 0 0;
+	margin-left : auto;
+	margin-right : auto;
+	text-align : left;
+	background-color : #CCE1FF;
+	font-size:inherit;
+	border: 1px solid #000;
+}
+
+.siteWidth {
+	width : 950px;
+}
+
+#header {
+	margin: 20px 0 0 0;
+	color: #0007DF;
+}
+
+#orgName {
+	font-size:57.6px;
+	margin-top:10px;
+}
+
+#textContainer {
+	text-align: left; 
+	padding-top: 10px; 
+	padding-right: 20px; 
+	padding-bottom: 10px; 
+	padding-left: 20px;
+}
+
+
+#header tbody{
+	background : BLACK;
+	border-top : 1px solid #999;
+	border-bottom : 1px solid #999;
+}
+
+#headerOrgInfo {
+	vertical-align:middle;
+	text-align:left;
+	padding:10px;
+	color:#99C3FF;
+}
+
+
+table.portalTable {
+	width: 750px;
+  margin-top: 4px;
+	margin-bottom: 4px;
+	border: 1px solid BLACK;
+	empty-cells: show;
+  border-collapse: collapse;
+}
